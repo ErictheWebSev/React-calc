@@ -1,0 +1,3 @@
+# Calculator App
+
+- made this calculator app whilst learning react...
